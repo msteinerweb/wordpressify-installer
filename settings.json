@@ -1,0 +1,22 @@
+{
+    "wordpress": {
+        "dbuser": "root",
+        "dbpass": "123456789",
+        "dbhost": "localhost",
+        "admin_user": "admin",
+        "admin_password": "123456789",
+        "admin_email": "admin@example.com",
+        "options": [
+            {
+                "option": "timezone_string",
+                "value": "America/Chicago"
+            },
+            {
+                "option": "start_of_week",
+                "value": 0
+            }
+        ],
+        "plugins": [
+        ]
+    }
+}
